@@ -14,17 +14,16 @@ programa
 		escreva("Digite a sua idade: \n")
 		leia(idade)
 
-		se (idade<12)
+		se (idade<18)
 		{
-			escreva("Você é um fraldinha!")
+			escreva("Você é de menor")
 		}
 
-		se (idade>=12 e idade<18
+		senao
 		{
-			escreva("Ja pode tomar toddynho")
+			escreva("Ja pode ser preso hein")
 		}
 
-		se (idade
 	}
 }
 
@@ -33,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 59; 
+ * @POSICAO-CURSOR = 279; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
